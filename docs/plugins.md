@@ -151,6 +151,7 @@ These plugins apply transformations to your code.
  - [runtime](/docs/plugins/transform-runtime)
  - [strict-mode](/docs/plugins/transform-strict-mode)
  - [undefined-to-void](/docs/plugins/transform-undefined-to-void)
+ - [babel-plugin-inject](/docs/plugins/inject)
 
 ## Misc Plugins
 
